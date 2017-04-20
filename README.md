@@ -1,4 +1,7 @@
-# test coverage for  airplay-js (v0.3.0)  [![npm package](https://img.shields.io/npm/v/npmtest-airplay-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-airplay-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-airplay-js.svg)](https://travis-ci.org/npmtest/node-npmtest-airplay-js)
+# npmtest-airplay-js
+
+#### basic test coverage for  airplay-js (v0.3.0)  [![npm package](https://img.shields.io/npm/v/npmtest-airplay-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-airplay-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-airplay-js.svg)](https://travis-ci.org/npmtest/node-npmtest-airplay-js)
+
 #### JS Native Apple AirPlay client library for AppleTV
 
 [![NPM](https://nodei.co/npm/airplay-js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/airplay-js)
